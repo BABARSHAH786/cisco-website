@@ -1,0 +1,289 @@
+header{
+    height: 19px;
+    width: 100%;
+    background-color: #f9fcff;
+    display: flex;
+    justify-content: end;
+    border: white;
+}
+.text1{
+    text-decoration: none;
+    list-style: none;
+}
+section{
+    position: relative;
+    top: 76px;
+}
+.display{
+    display: flex;
+}
+.one{
+    display: flex;
+
+}
+.nav{
+    width: 65%;
+}
+.svg1{
+    height: inherit;
+    width: inherit;
+    position: relative;
+    left: 55px;
+    top: 40px;
+}
+.nav1{
+    position: relative;
+    left: 93px;
+    top: 59px;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+.nav1 a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+
+}
+.link1{
+    position: relative;
+    left: -16px;
+}
+.block{
+    display: block;
+}
+.link2{
+    position: relative;
+    left: 46px;
+
+}
+.link3{
+    position: relative;
+    left: 69px;
+}
+.link4{
+    position: relative;
+    left: 550px;
+
+}
+.link5{
+    position: relative;
+    left: 580px;
+
+}
+.section1{
+    position: relative;
+    top: 135px;
+    left: 87px;
+    font-size: 40px;
+    width: 34%;
+}
+.p1{
+    position: relative;
+    top: 135px;
+    left: 87px;
+    width: 50%;
+
+}
+.btn1{
+    position: relative;
+    top: 135px;
+    left: 87px;
+}
+.cisco1{
+    position: relative;
+    top: 12px;
+    left: 820px;
+    font-size: 33px;
+}
+.live1{
+    position: relative;
+    top: -55px;
+    left: 929px;
+    font-size: 78px;
+}
+.linka{
+    position: relative;
+    top: 12px;
+    left: 820px;
+    text-decoration: none;
+    list-style: none;
+    position: relative;
+    left: 171px;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    width: 55%;
+
+}
+.linka a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+
+
+}
+.dwnld{
+    display: grid;
+
+}
+.img-red{
+    width: 50%;
+}
+.q{
+    width: 33%;
+    text-align: center;
+}
+.full{
+    position: relative;
+    top: 182px;
+    left: -95px;
+
+}
+.w{
+    width: 55%;
+    text-align: center;
+
+
+}
+.e{
+    width: 49%;
+}
+.intro{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+iframe{
+    text-align: center;
+    position: relative;
+    top: 82px;
+    left: 355px;
+
+
+}
+
+/* footer ******************************** */
+footer{
+
+}
+.foot-top{
+    color: rgb(255, 255, 255);
+    display: flex;
+    background-color: #fcfcff;
+    height: 53px;
+
+
+
+
+}
+.foot1{
+    background-color: #ffffff;
+    height: 45px;
+
+}
+.foot-social{
+    display: flex;
+    color: rgb(255, 251, 251);
+    text-decoration: none;
+    list-style: none;
+    position: relative;
+    height: 32px;
+    top: 13px;
+    left: 850px;
+}
+.foot2{
+    background-color: #ffffff;
+}
+.foot-top h4{
+    position: relative;
+    left: 171px;
+    top: -6px;
+}
+.container{
+    display: flex;
+    color: rgb(0, 0, 0);
+    justify-content: space-around;
+    text-decoration: none;
+    list-style: none;
+    
+}
+.foot-social i{
+    width: 43px;
+
+}
+.footer-content i:hover{
+    color: yellowgreen;
+    width: 43px;
+    height: 34px;
+
+}
+.footer-content a:hover{
+    color: #ece1e1;
+}
+.list,.list a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+.social-icons{
+    text-decoration: none;
+    list-style: none;
+
+}
+.bottom-bar{
+    background-color: #ffffff;
+    color: white;
+    text-align: center;
+}
+section{
+    /* background-image: url("../images/homepage-hero-desktop-3200x800-3.webp"); */
+    width: 100%;
+    
+
+}
+.bc{
+     background-image: url("../images/homepage-hero-desktop-3200x800-3.webp");
+
+
+}
+.op{
+    width: 55%;
+}
+.font{
+    font-size: 12px;
+}
+.foot-yes{
+    width: 25%;
+}
+.foot3 i{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    height: 32px;
+    top: 13px;
+    left: 810px;
+    font-size: 12px;
+
+}
+.downq a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+
+}
+.downq{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    background-color: #f9fcff;
+    border-color: #f9fcff;
+}
